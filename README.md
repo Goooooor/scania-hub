@@ -22,14 +22,14 @@ Scania Hub is a web application for searching and comparing Scania vehicles, bui
 
 ### Installation and Running
 
-#### Frontend
+
 
 ```sh
-cd frontend
+cd frontend\src
 npm install
 npm run dev
 
-#### Backend
-cd backend
+
+cd backend\src
 ./gradlew bootRun  # For Linux/macOS
 gradlew.bat bootRun  # For Windows
