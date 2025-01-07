@@ -1,5 +1,5 @@
 import Button from "@mui/material/Button";
-import "./sidebarFilter.css";
+import "./sidebar.css";
 
 export function SidebarFilterView(props) {
   return (

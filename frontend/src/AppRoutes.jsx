@@ -1,4 +1,4 @@
-import "./App.css";
+import "./app.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Navbar } from "./layout/NavbarPresenter.jsx";
 import Find from "./pages/FindPagePresenter.jsx";
