@@ -1,6 +1,6 @@
 # Scania Hub
 
-Scania Hub is a web application for searching and comparing Scania vehicles, built with **React (frontend)** and **Spring Boot (backend) using Gradle**.
+Scania Hub is a web application for searching and comparing Scania vehicles, built with React (frontend) and Spring Boot (backend) using Gradle.
 
 ## Features
 
