@@ -1,0 +1,30 @@
+.find {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Creates 3 equal-width columns */
+  gap: 10px;
+  margin-left: 295px;
+  margin-bottom: 100px;
+  margin-top: 8px;
+  align-items: center;
+}
+
+.find-container {
+  height: calc(100vh - 56px); /* Full height minus navbar */
+  overflow-y: auto;
+}
+
+.find img {
+  display: flex;
+  align-items: center;
+  margin-top: 190px;
+  margin-left: 390px;
+}
+
+.find p1 {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 61%;
+  transform: translate(-50%, -50%);
+}
