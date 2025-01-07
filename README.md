@@ -5,7 +5,7 @@ Scania Hub is a web application for searching and comparing Scania vehicles, bui
 ## Features
 
 - Search for trucks and buses
-- Apply filters like engine type, automatic transmission, and production status
+- Apply filters like series, engine type, automatic transmission, and production status
 - Compare multiple vehicles in a table
 
 ## Technologies Used
