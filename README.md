@@ -30,6 +30,6 @@ npm install
 npm run dev
 
 
-cd backend\src
+cd backend
 ./gradlew bootRun  # For Linux/macOS
 gradlew.bat bootRun  # For Windows
