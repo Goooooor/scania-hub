@@ -21,7 +21,7 @@ Scania Hub is a web application for searching and comparing Scania vehicles, bui
 - **Backend:** Java 17+ installed
 
 ### Installation and Running
-
+If your backend is running on a different port, update the frontend configuration in api-config.js, as API calls are set to use port 8080 by default.
 
 
 ```sh
