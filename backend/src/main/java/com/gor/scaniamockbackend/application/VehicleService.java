@@ -1,9 +1,8 @@
-package com.gor.scaniamockbackend.service;
+package com.gor.scaniamockbackend.application;
 
-import com.gor.scaniamockbackend.DTO.VehicleResponseDTO;
-import com.gor.scaniamockbackend.model.vehicles.Bus;
-import com.gor.scaniamockbackend.model.vehicles.Truck;
-import com.gor.scaniamockbackend.model.vehicles.Vehicle;
+import com.gor.scaniamockbackend.dto.VehicleResponseDTO;
+import com.gor.scaniamockbackend.domain.vehicles.Bus;
+import com.gor.scaniamockbackend.domain.vehicles.Truck;
 import com.gor.scaniamockbackend.repository.BusRepository;
 import com.gor.scaniamockbackend.repository.TruckRepository;
 import org.springframework.beans.factory.annotation.Autowired;

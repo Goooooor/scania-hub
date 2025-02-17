@@ -1,7 +1,7 @@
-package com.gor.scaniamockbackend.model.vehicles;
+package com.gor.scaniamockbackend.domain.vehicles;
 
-import com.gor.scaniamockbackend.model.vehicledetails.Battery;
-import com.gor.scaniamockbackend.model.vehicledetails.Engine;
+import com.gor.scaniamockbackend.domain.vehicledetails.Battery;
+import com.gor.scaniamockbackend.domain.vehicledetails.Engine;
 
 public abstract class Vehicle {
 

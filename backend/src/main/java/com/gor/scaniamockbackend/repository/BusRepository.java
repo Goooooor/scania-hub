@@ -1,9 +1,9 @@
 package com.gor.scaniamockbackend.repository;
 
-import com.gor.scaniamockbackend.model.vehicledetails.Battery;
-import com.gor.scaniamockbackend.model.vehicledetails.BusClassification;
-import com.gor.scaniamockbackend.model.vehicledetails.Engine;
-import com.gor.scaniamockbackend.model.vehicles.Bus;
+import com.gor.scaniamockbackend.domain.vehicledetails.Battery;
+import com.gor.scaniamockbackend.domain.vehicledetails.BusClassification;
+import com.gor.scaniamockbackend.domain.vehicledetails.Engine;
+import com.gor.scaniamockbackend.domain.vehicles.Bus;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

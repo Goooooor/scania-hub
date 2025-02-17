@@ -1,9 +1,8 @@
-package com.gor.scaniamockbackend.model.vehicles;
+package com.gor.scaniamockbackend.domain.vehicles;
 
-import com.gor.scaniamockbackend.model.vehicledetails.Battery;
-import com.gor.scaniamockbackend.model.vehicledetails.BusClassification;
-import com.gor.scaniamockbackend.model.vehicledetails.Engine;
-import com.gor.scaniamockbackend.model.vehicledetails.TruckClassification;
+import com.gor.scaniamockbackend.domain.vehicledetails.Battery;
+import com.gor.scaniamockbackend.domain.vehicledetails.Engine;
+import com.gor.scaniamockbackend.domain.vehicledetails.TruckClassification;
 
 public class Truck extends Vehicle {
 

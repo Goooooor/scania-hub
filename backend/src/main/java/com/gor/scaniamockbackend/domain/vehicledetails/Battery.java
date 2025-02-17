@@ -1,4 +1,4 @@
-package com.gor.scaniamockbackend.model.vehicledetails;
+package com.gor.scaniamockbackend.domain.vehicledetails;
 
 public class Battery {
     private int capacity; // kWh

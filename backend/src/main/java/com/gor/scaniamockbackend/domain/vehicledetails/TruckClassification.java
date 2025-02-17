@@ -1,7 +1,4 @@
-package com.gor.scaniamockbackend.model.vehicledetails;
-
-import java.util.HashMap;
-import java.util.Map;
+package com.gor.scaniamockbackend.domain.vehicledetails;
 
 public class TruckClassification {
 

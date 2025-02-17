@@ -1,8 +1,8 @@
-package com.gor.scaniamockbackend.DTO;
+package com.gor.scaniamockbackend.dto;
 
 
-import com.gor.scaniamockbackend.model.vehicledetails.Battery;
-import com.gor.scaniamockbackend.model.vehicledetails.Engine;
+import com.gor.scaniamockbackend.domain.vehicledetails.Battery;
+import com.gor.scaniamockbackend.domain.vehicledetails.Engine;
 
 public class TruckResponseDTO {
 

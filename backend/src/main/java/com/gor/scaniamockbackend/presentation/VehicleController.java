@@ -1,12 +1,12 @@
-package com.gor.scaniamockbackend.controller;
+package com.gor.scaniamockbackend.presentation;
 
-import com.gor.scaniamockbackend.DTO.VehicleResponseDTO;
+import com.gor.scaniamockbackend.dto.VehicleResponseDTO;
 import com.gor.scaniamockbackend.utility.SearchQueryValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.gor.scaniamockbackend.service.VehicleService;
+import com.gor.scaniamockbackend.application.VehicleService;
 
 import java.util.List;
 
